@@ -1,0 +1,118 @@
+body { 
+    margin: 0;
+    background: #222;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul {
+    padding: 5px 20px;
+    margin: 0px;
+}
+
+li {
+    display: inline;
+}
+
+.doc {
+    margin: -25px 0px 0px 100px;
+}
+
+.twi {
+    margin: -20px 0px 0px 0px;
+    float: right;
+    
+}
+
+a {
+    color: #CCC;
+}
+
+a:link {
+    color: #CCC;
+    padding: 0px 5px 0px 0px;
+    text-align: center;
+    text-decoration: none;
+
+}
+
+a:hover {
+    color: #FFF;
+    text-decoration: underline 2px;
+}
+
+img {
+    height: 40px;
+}
+
+.cap {
+    height: 50px;
+    background: black;
+    position: fixed;
+    z-index: 8749873958539685395;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+
+}
+
+h1 {
+    font-size: 22px;
+    color: #FFF;
+    margin: 20px;
+}
+
+.interessants {
+    width: 0 auto;
+    margin: 20px;
+    background-color: red;
+}
+
+.img1 {
+    height: 260.010400416px;
+    border-radius: 5px;
+}
+
+.titol {
+    color: #ccc;
+    font-size: 14px;
+}
+
+.any {
+    color: #CCC;
+    font-size: 11px;
+    margin-top: 10px;
+}
+.tipus {
+    color: #CCC;
+    font-size: 11px;
+    float: right;
+    margin-top: -13px;
+}
+
+.bloc {
+    float: left;
+    margin: 10px;
+}
+
+.bloc:hover {
+    opacity: 50%;
+}
+
+.vistos {
+    float: left;
+    clear: both;
+}
+
+.pelis {
+    float: left;
+    clear: both;
+}
+
+.series {
+    float: left;
+    clear: both;
+}
+
+.vistos {
+    filter: grayscale(100%);
+}
